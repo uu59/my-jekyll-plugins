@@ -1,0 +1,9 @@
+** Not For Production **
+
+# sprockets.rb
+
+Asset pipeline for Jekyll
+
+# thumbnail.rb
+
+Resize image by custom tag `{% thumbnail 200x200> %}path/to/image.jpg{% endthumbnail %}`
